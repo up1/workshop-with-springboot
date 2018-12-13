@@ -13,4 +13,4 @@ $mvnw clean package -DskipTests
 mvnw spring-boot:run
 ```
 
-And
+And go to http://localhost:8080/books
